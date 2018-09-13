@@ -1,13 +1,10 @@
 # hello world!
 
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
+welcome to catherine's github.
 
-## list of things
+## what you can find
 
-list:
-* item 1
-* _item 2_
-* __item 3__
+list of projects:
+* this one
+* _hello.py_
+* __testproj.py__
